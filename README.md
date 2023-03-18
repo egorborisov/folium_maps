@@ -1,2 +1,2 @@
-# folium_maps
-Examples of building informative maps using the  folium package
+# Folium maps
+Examples of building informative maps using the folium package
